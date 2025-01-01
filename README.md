@@ -7,8 +7,8 @@ Vous trouverez ici toutes les informations essentielles pour découvrir mon parc
 
 - **CV_2024-12-14_ADRIEN_VENTRE.pdf** : Mon CV en version PDF.
 - **Contact** :
-  - [LinkedIn](https://www.linkedin.com/in/adrien-ventre/) *(ajouter ton lien si applicable)*
-  - [Email professionnel](mailto:ton-email@example.com) *(remplace avec ton adresse)*
+  - [LinkedIn](https://www.linkedin.com/in/adrien-v-362a72258/) 
+  - [Email professionnel](ventrea26@gmail.com)
 
 ## Objectif
 
